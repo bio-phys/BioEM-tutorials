@@ -1,0 +1,20 @@
+##### Micrograph Parameters #######
+NUMBER_PIXELS 196
+PIXEL_SIZE 2.28
+
+##### Euler angle grid points: #######
+USE_QUATERNIONS
+
+#### WITH_CTF ###########
+CTF_B_ENV 1 100 2
+CTF_DEFOCUS 1.0 5.5 2
+CTF_AMPLITUDE 0.01 1 2
+
+SIGMA_PRIOR_B_CTF 15
+
+SIGMA_PRIOR_DEFOCUS 0.4
+PRIOR_DEFOCUS_CENTER 2.5
+
+ELECTRON_WAVELENGTH 0.024
+##### Center displacement: #######
+DISPLACE_CENTER 40 2

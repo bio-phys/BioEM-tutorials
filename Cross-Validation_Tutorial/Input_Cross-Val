@@ -1,0 +1,6 @@
+MAP_ROUND1 run_class001.mrc
+MASK mask.mrc	
+PARTICLES_FILE particles_file.txt
+ORIENT_FILE QUATERNION_LIST_4608_Orient
+MAP_ITERATION_FILE map_iteration.txt
+NUM_FREQ 8 

@@ -1,0 +1,4 @@
+particles/particle-1.mrc 	1.32337
+particles/particle-2.mrc 	1.32337
+particles/particle-3.mrc 	1.4047
+particles/particle-4.mrc 	1.4047
