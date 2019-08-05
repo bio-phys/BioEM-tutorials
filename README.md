@@ -13,7 +13,7 @@ Pilar Cossio, David Rohr, Fabio Baruffa, Markus Rampp, Luka Stanisic, Sebastian 
 A directory with example EM particles, models, and input files are provided in the Tutorial_BioEM directory. 
 This tutorial is described in [section 4 of the BioEM documentation](http://bioem.readthedocs.io/en/latest/index.html#tutorial).
 
-Cross-Validation_Tutorial directory contains data to perform cross-validation tests described in [this document](TODO).
+Cross-Validation_Tutorial directory contains data to perform cross-validation tests described in [this document](Guide_Cross_validation.pdf).
 
 
 ### License 
